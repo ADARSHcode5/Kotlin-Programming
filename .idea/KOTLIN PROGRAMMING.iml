@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/01_Basics/2_Operators" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/01_Basics/3_Variables" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/01_Basics/4_TypeConversion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01_Basics/ControlFlow" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
