@@ -9,6 +9,9 @@
       <sourceFolder url="file://$MODULE_DIR$/01_Basics/4_TypeConversion" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/01_Basics/5_ControlFlow" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/01_Basics/6_ArrayAndString" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02_Functions/AdvanceFun" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02_Functions/BasicFunctions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02_Functions/Recursion" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
