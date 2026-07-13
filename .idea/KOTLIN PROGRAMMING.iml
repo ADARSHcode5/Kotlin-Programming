@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/02_Functions/AdvanceFun" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/02_Functions/BasicFunctions" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/02_Functions/Recursion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03_OOP/Oops" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
