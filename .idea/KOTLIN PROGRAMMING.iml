@@ -14,6 +14,7 @@
       <sourceFolder url="file://$MODULE_DIR$/02_Functions/Recursion" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/03_OOP/Oops" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/04_Collections/Intermediate" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05_NullSafety/basic" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
