@@ -16,6 +16,7 @@
       <sourceFolder url="file://$MODULE_DIR$/04_Collections/Intermediate" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/05_NullSafety/basic" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/06_Coroutines/Program" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07_Practice/1-Basic" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

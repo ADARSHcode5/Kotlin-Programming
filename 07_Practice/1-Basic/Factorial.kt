@@ -1,0 +1,9 @@
+fun main() {
+    val n = 5
+    var fact = 1
+
+    for (i in 1..n)
+        fact *= i
+
+    println(fact)
+}
